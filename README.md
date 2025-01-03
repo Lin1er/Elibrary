@@ -43,7 +43,7 @@ eLibrary adalah aplikasi perpustakaan digital yang dirancang untuk mempermudah m
 
 ## Teknologi yang Digunakan
 
-- **Laravel**: Framework backend utama.
+- **Laravel 11**: Framework backend utama.
 - **MySQL**: Basis data untuk menyimpan data aplikasi.
 - **Tailwind CSS**: Framework CSS untuk desain responsif.
 - **JavaScript**: Untuk interaktivitas pada frontend.
@@ -66,10 +66,6 @@ Kami menerima kontribusi dalam bentuk fitur baru, perbaikan bug, atau dokumentas
    git push origin fitur-baru-anda
    ```
 5. Buat pull request ke branch `main`.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
